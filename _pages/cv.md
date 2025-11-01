@@ -5,10 +5,10 @@ permalink: /cv/
 ---
 ## Curriculum Vitae
 
-[Download my CV]({{ "/assets/CV.pdf" | relative_url }}) in PDF format.
+[Download my CV]({{ "/assets/Resume Bhole_Abha - Google Docs.pdf" | relative_url }}) in PDF format.
 
 
-**Email:** [netID@cornell.edu](mailto:netID@cornell.edu) | | | **Phone:** +123 456 7890
+**Email:** [ab2792@cornell.edu](mailto:netID@cornell.edu) | | | **Phone:** +1 607 280-0844
 
 ---
 
